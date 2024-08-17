@@ -36,10 +36,7 @@
   
 </details>
 
-[![Ravi's github activity graph](https://github-graph.herokuapp.com/graph?username=Ravi02rr&area=true&hide_border=true&radius=15&theme=github-compact&hide_title=true&bg_color=020712)](https://github.com/Ravi02rr#gh-dark-mode-only)
-  
-[![Ravi's github activity graph](https://github-graph.herokuapp.com/graph?username=Ravi02rr&hide_border=true&radius=15&theme=github-compact&area=true&hide_title=true&line=020712&color=3572A5&point=3572A5)](https://github.com/Ravi02rr#gh-light-mode-only)
-
+[![Ravi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ravi02rr&bg_color=0a0005&color=4c9e5a&line=569e4c&point=f2f2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ravi02rr&theme=radical&no-frame=true&no-bg=true&margin-w=4)
